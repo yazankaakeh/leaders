@@ -12,5 +12,5 @@
     @yield('before_js')
     <!-- Template Javascript -->
     <script src="{{asset('js/main.js')}}"></script>
-    
+
     @yield('after_js')
